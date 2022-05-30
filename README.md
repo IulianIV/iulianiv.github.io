@@ -1,6 +1,6 @@
 # Main Resume
 
-* A simple resume for personal use.*
+**A simple resume for personal use.**
 
 Sometimes the resume itself might differ, because I play around with the branches.
 
@@ -11,6 +11,8 @@ The current available versions are:
 2. a minimalistic JS/CSS/HTML version;
 3. a minimalistic Jekyll version;
 4. a minimalistic Flask version.
+
+In a local, virtual environment any version can be previewed.
 
 The old version is based [on this](https://startbootstrap.com/theme/resume) bootstrap theme.
 The other minimalistic versions are inspired from [this template](https://github.com/jglovier/resume-template).
