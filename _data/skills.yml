@@ -1,12 +1,18 @@
 # Skills
 - skill: Organizational leadership
-  description: I have several years of leadership, including those in college, time in which I learned how to motivate people, find their strengths, evolve them and organize them towards achieving common goals.
+  description: I have several years of leadership, including those in college, time in which I learned how to motivate people, find their strengths, evolve with them and organize them towards achieving common goals.
 
 - skill: Strategic Thinking
-  description: My top strengths Learner, Intellection, Consistency, Restorative, Deliberative build towards my ability to develop the right step towards achieving a goal whilst being able to foresee potential problems and the most efficient way to deal with them. 
+  description: Learner, Intellection, Consistency, Restorative, Deliberative  these are some of my strengths that build towards my ability to develop the right step towards achieving a goal whilst being able to foresee potential problems and the most efficient way to deal with them. 
 
 - skill: Marketing Manager & Business Development
   description: As a marketing manager my top priority was growing the business. Thus, more than marketing was necessary. My Strateigc Thinking coupled with my Marketing abilities evolved into a ability to foresee potential business opportunities and how to exploit them.
 
 - skill: Advanced English
   description: Level C1 CAE Cambridge Exam
+
+- skill: Solution Finder
+  description: I tend to find solutions, or work-arounds on occasion, to difficult, seemingly unsolvable problems. Although, if the given solution is not viable, according or implementable, I tend to at least guide towards the right path.
+
+- skill: Programmatic knowledge
+  description: In college I gathered experience in Python, C++ (Arduino, MikroTik) and MathLab (signal processing). In my free time I code in Python as a hobby/passion primarily for backend functionalities. Recently I started taking an interest in frontend development. Because of some college courses I had to dabble with C# (Unity) for a while.
