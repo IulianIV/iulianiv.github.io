@@ -1,6 +1,6 @@
 # Site settings
 title: "Iulian Ichim"
-description: "Resume of Iulian Ichim. Built with Jekyll and Github Pages. Inspired from a Jekyll template."
+description: "Resume of Iulian Ichim. Built with Jekyll and Github Pages. Inspired from a Jekyll template by @jglovier."
 
 # Build settings
 markdown: kramdown
