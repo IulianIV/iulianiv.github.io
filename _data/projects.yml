@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: MTP
+- project: Prower
   role: Founder & Primary Developer
   duration: 2021 &mdash; Present
   url: "https://www.prower.ro"
@@ -18,3 +18,9 @@
   duration: 2020 &mdash; Present
   # url: "https://www.tech-biomed.ro"
   description: Medical Bioengineering & Biotechnology blog focused on the abstractization of complex information found in journals along with the accumulation of possile sparse data regarding the field.
+
+- project: My Repository
+  role: Primary Developer
+  duration: Present
+  url: "https://github.com/IulianIV"
+  description: Prower Flask webapp, Apps Script workflow optimizers, several single-use Python & JavaScript snippets
