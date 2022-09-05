@@ -23,7 +23,7 @@ resume_contact_address:         "Bucharest, Romania"
 resume_header_contact_info:     "Bucharest, Romania • ichim.iulian12@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I lead with strategic thinking and a business development mindset. I am a avid learner with a keen interest in technology and programming. My goals are to become proficient in Python & C++.</p>"
+resume_header_intro: "<p>I lead with strategic thinking and a business development mindset. I am a avid learner with a keen interest in technology and programming.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
