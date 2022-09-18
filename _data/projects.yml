@@ -7,17 +7,17 @@
   url: "https://www.prower.ro"
   description: Python & Flask web app for budgeting & marketing management, along other general utilities
 
-- project: Tech Biomed
-  role: Founder & Maintainer
-  duration: 2020 &mdash; Present
-  url: "https://www.tech-biomed.com"
-  description: Medical Bioengineering & Biotechnology blog focused on the abstractization of complex information found in journals along with the accumulation of possile sparse data regarding the field.
+# - project: Tech Biomed
+#  role: Founder & Maintainer
+#  duration: 2020 &mdash; Present
+#  url: "https://www.tech-biomed.com"
+#  description: Medical Bioengineering & Biotechnology blog focused on the abstractization of complex information found in journals along with the accumulation of possile sparse data regarding the field.
 
-- project: Tech Biomed, RO
-  role: Founder & Maintainer
-  duration: 2020 &mdash; Present
-  # url: "https://www.tech-biomed.ro"
-  description: Medical Bioengineering & Biotechnology blog focused on the abstractization of complex information found in journals along with the accumulation of possile sparse data regarding the field.
+# - project: Tech Biomed, RO
+#  role: Founder & Maintainer
+#  duration: 2020 &mdash; Present
+#  url: "https://www.tech-biomed.ro"
+#  description: Medical Bioengineering & Biotechnology blog focused on the abstractization of complex information found in journals along with the accumulation of possile sparse data regarding the field.
 
 - project: My Repository
   role: Primary Developer
