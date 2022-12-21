@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Iulian Ichim"
-resume_title:                   "Python Programmer, Marketing Manager"
+resume_title:                   "Python Programmer, Marketing Specialist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ichim.iulian12@gmail.com"
