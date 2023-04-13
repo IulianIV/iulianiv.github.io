@@ -9,9 +9,9 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Iulian Ichim"
-resume_title:                   "Python Programmer, Marketing Specialist"
+resume_title:                   "Bioinformatics Software Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ichim.iulian12@gmail.com"
@@ -20,10 +20,10 @@ resume_contact_email:           "ichim.iulian12@gmail.com"
 resume_contact_telephone:       ""
 resume_contact_address:         "Bucharest, Romania"
 
-resume_header_contact_info:     "Bucharest, Romania • ichim.iulian12@gmail.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Bucharest, Romania • ichim.iulian12 [~at~] gmail.com"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I lead with strategic thinking and a business development mindset. I am a avid learner with a keen interest in technology and programming.</p>"
+resume_header_intro: "<p>I lead with strategic thinking and a development mindset. I am a avid learner with a keen interest in technology and programming.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,6 +36,7 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
+research_section_projects:        true
 resume_section_skills:          true
 # resume_section_recognition:     true
 # resume_section_links:           true
@@ -49,7 +50,7 @@ resume_social_links:
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://www.facebook.com/IchimIuli/"
-  resume_linkedin_url:          "https://www.linkedin.com/in/iulian-ichim-675799115/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/iulianichim/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://iulianiv.github.io/"
   # resume_medium_url:            "https://medium.com/@jglovier"

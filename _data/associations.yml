@@ -2,7 +2,16 @@
 # comment out the urls if you do not wish to display them
 
 - organization: ASB - Bioengineering Student Association
-  role: Volunteer
-  year: 2015 &mdash; 2019
+  role: Internal Affairs Vicepresident, Preisdent
+  year: Oct. 2015 &mdash; July 2019
   url: https://www.asbiasi.ro/
-  summary: Managed and coordinated the team that organized conferences and scientific activities.
+  summary: 
+    <li>Coordinated and organized multiple local charitable events, local and national sports events;</li>
+    <li>Coordinated and organized the National Bioengineering Conference for Students & Young Researchers which through a team effort turned international;</li>
+- organization: IEEE International Conference EHB 2017
+  role: Event Organizer
+  year: 2017
+  url: http://www.ehbconference.ro/Home.aspx
+  summary: 
+    <li>Assisted the General Chair with the coordination and organization of the event by keeping close contact with international participants;</li>
+    <li>Ensured proper functioning of posters, seminars, and oral presentation section.</li>

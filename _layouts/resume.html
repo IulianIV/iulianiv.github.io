@@ -120,6 +120,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <!-- end Projects -->
       {% endif %}
 
+      {% if site.research_section_projects %}
+      <!-- begin Research -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Research Experience</h2>
+        </header>
+
+        {% for research in site.data.research %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <h4 class="resume-item-title" itemprop="name">{% if research.url %}<a href="{{ research.url }}" itemprop="url" target="_blank">{{ research.name }}</a>{% else %}{{ research.name }}{% endif %}</h4>
+          <h5 class="resume-item-details" itemprop="description">{{ research.purpose }} &bull; {{ research.duration }} {% if research.prize %} &bull; {{ research.prize }} {% endif %}</h5>
+          <p class="resume-item-copy">{{ research.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Research -->
+      {% endif %}
+
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
       <section class="content-section">
@@ -163,7 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>Volunteering Work</h2>
         </header>
 
         {% for association in site.data.associations %}

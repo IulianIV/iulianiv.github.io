@@ -1,10 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Medical Bioegineering
+
+- degree: MSc, Bioinformatics & Computational Biology
+  uni: University College Cork, Ireland
+  year: 2023
+  summary:
+    <li>Offer accepted & starting in September 2023.</li>
+
+- degree: BS, Major Biotechnology
   uni: Grigore T. Popa University of Medicine & Pharmacy, Iasi, Romania
   year: 2015 &mdash; 2019
-  summary: Major in Biotechnology. Minor in medical electronics. Dissertation in the field of yeast manipulation and processing.
+  summary:
+    <li>Major in Biotechnology. Minor in medical electronics. Dissertation in the field of yeast manipulation and processing.</li>
+    <li>Minor consists of developing EEGs, EKGs, and EMGs by using microcontrollers.</li>
 
-- degree: High School Diploma
-  uni: A.T. Laurian National College
-  year: 2004
-  summary: 2 Years of Mathematics/Informatics and 2 Years of Natural Sciences
