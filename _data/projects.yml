@@ -1,6 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: DEE2 Galaxy Wrapper 
+  role: Developer
+  duration: Feb. 2023 &mdash; Present
+  url: "https://github.com/IulianIV/dee2-galaxy"
+  description: Galaxy Wrapper and Python Package for the <a href="https://dee2.io/index.html" rel="noopener noreferrer nofollow" 
+   target="_blank">Digital Expression Explorer 2 (DEE2)</a> R package. <br/>Demo account > TestUser@TestUser1234?
+
+
 - project: Prower
   role: Founder & Primary Developer
   duration: 2021 &mdash; Present
