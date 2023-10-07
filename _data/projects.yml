@@ -3,17 +3,17 @@
 
 - project: DEE2 Galaxy Wrapper 
   role: Developer
-  duration: Feb. 2023 &mdash; Present
-  url: "https://github.com/IulianIV/dee2-galaxy"
-  description: Galaxy Wrapper and Python Package for the <a href="https://dee2.io/index.html" rel="noopener noreferrer nofollow" 
-   target="_blank">Digital Expression Explorer 2 (DEE2)</a> R package.
+  duration: Feb. 2023 &mdash; Sep. 2023
+  url: "https://galaxy.prower.ro"
+  description: Developed and integrated a primary location where the <a href="https://dee2.io/index.html" rel="noopener noreferrer nofollow" 
+   target="_blank">DEE2</a> Python Wrapper could be properly tested.
 
 
 - project: Prower
   role: Founder & Primary Developer
   duration: 2021 &mdash; Present
   url: "https://www.prower.ro"
-  description: Python & Flask web app for budgeting & marketing intelligence, along other general utilities. <br/>Demo account > TestUser@TestUser1234?
+  description: Designed a Python & Flask web app for use in budgeting and marketing intelligence, along with other general utilities. <br/>Demo account > TestUser@TestUser1234?
 
 # - project: Tech Biomed
 #  role: Founder & Maintainer
@@ -31,4 +31,4 @@
   role: Primary Developer
   duration: Present
   url: "https://github.com/IulianIV"
-  description: Prower Flask webapp, Apps Script workflow optimizers, several single-use Python & JavaScript snippets
+  description: Galaxy Instance, Prower Flask webapp, Apps Script workflow optimizers, several single-use Python & JavaScript snippets
