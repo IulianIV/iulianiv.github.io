@@ -23,7 +23,7 @@ resume_contact_address:         "Cork, Ireland"
 resume_header_contact_info:     "Cork, Ireland • ichim.iulian12 [~at~] gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I possess a great desire to learn and need to continuously improve myself. The process of learning, coupled with the possible outcome is what drives my passions.</p>"
+resume_header_intro: "<p>I possess a great desire to advance my career with a leading organization that will utilize my extensive bioinformatics knowledge while also allowing me to develop further as a professional. Proven talent for aligning project objectives with established and emerging biotechnology paradigms to achieve optimal results with minimal challenges. Growth-focused leader with expertise spanning research and analysis, application design, critical thinking, problem solving, team collaboration, and organization. Exceptional professional with keen interpersonal, communications, and task prioritization expertise.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,8 +38,8 @@ resume_section_education:       true
 resume_section_projects:        true
 research_section_projects:        true
 resume_section_skills:          true
-# resume_section_recognition:     true
-# resume_section_links:           true
+resume_section_recognition:     true
+resume_section_links:           true
 resume_section_associations:    true
 resume_section_interests:       true
 
