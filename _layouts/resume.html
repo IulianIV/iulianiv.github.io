@@ -183,7 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Volunteering Work</h2>
+          <h2>Volunteersim</h2>
         </header>
 
         {% for association in site.data.associations %}
@@ -196,6 +196,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       </section>
       <!-- end Associations -->
+      {% if site.resume_section_affiliations %}
+      <!-- begin Affiliations -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Professional Affiliations</h2>
+        </header>
+
+        {% for affiliation in site.data.affiliations %}
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{% if affiliation.url %}<a href="{{ affiliation.url }}" target="_blank">{{ affiliation.organization }}</a>{% else %}{{ affiliation.organization }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ affiliation.role }} &bull; {{ affiliation.year }}</h4>
+          <p class="resume-item-copy">{{ affiliation.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Affiliations -->
       {% endif %}
 
       {% if site.resume_section_interests %}
