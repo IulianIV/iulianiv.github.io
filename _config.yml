@@ -17,10 +17,10 @@ resume_title:                   "Bioinformatics Software Developer"
 resume_contact_email:           "ichim.iulian12@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       ""
-resume_contact_address:         "Bucharest, Romania"
+resume_contact_telephone:       "+353874880410"
+resume_contact_address:         "Cork, Ireland"
 
-resume_header_contact_info:     "Bucharest, Romania • ichim.iulian12 [~at~] gmail.com"
+resume_header_contact_info:     "Cork, Ireland • ichim.iulian12 [~at~] gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I possess a great desire to learn and need to continuously improve myself. The process of learning, coupled with the possible outcome is what drives my passions.</p>"
