@@ -7,8 +7,7 @@
   duration: April &mdash; July 2019
   url:
   description:
-    <li>The proper destruction method of a cell membrane is vital for biotechnology and final product extraction. Mechanical degradation provides a cheap, fast, and safe way to extract beneficial products from cells.</li>
-    <li>Learned to use ultrasonication equipment while executing the degradation phase of cell membranes to further the study;</li>
+    <li>Obtained experience with utilizing ultrasonication equipment while executing the degradation phase of cell membranes to further the study.</li>
     <li>Applied fluorescence microscopy principles to determine the degree of destruction on cell membranes.</li>
 
 - name: Device for the controlled administration of drugs in topical conditions	
@@ -17,8 +16,8 @@
   duration: May 2019
   url:
   description:
-    <li>Using knowledge from Bio-MEMS (biomedical microelectromechanical systems) courses we developed a prototype for a device that aids the treatment of topical ailments over extended periods of time. Using microcontrollers the device would provide topical treatments on a regular basis according to a schedule fit for the drug used.</li>
-    <li>Learned to apply Bio-MEMS principles using feedback from microcontrollers and biosensors.</li>
+    <li>Architected a prototype for a device that supports the treatment of topical ailments over extended periods of time by using knowledge acquired from Bio-MEMS (biomedical microelectromechanical systems) courses.</li>
+    <li>Used microcontrollers to enable the device to provide topical treatments on a regular basis according to a schedule appropriate for the selected drug.</li>
 
 - name: Biosignal monitorization system using open-source platforms
   purpose: National Bioengineering Conference for Students & Young Researchers / International Balkan Workshop on Applied Physics and Materials Science
@@ -26,7 +25,7 @@
   duration: May 2017 / July 2018
   url:
   description:
-    <li>Study of upper limb biomechanics using flex sensors connected to open-source microcontroller device libraries to facilitate rehabilitation and in silico biomechanical simulations.</li>
+    <li>Conducted an in-depth study into upper limb biomechanics using flex sensors connected to open-source microcontroller device libraries to facilitate rehabilitation and in silico biomechanical simulations.</li>
 
 - name: Other research experience	
   purpose: Faculty of Medical Bioengineering
@@ -34,8 +33,8 @@
   duration: 2015 through 2019
   url:
   description:
-    <li>Spectrometric determination of fluorine concentration in multiple local sources of water;</li>
-    <li>Study of Streptomycin retention mechanism using fluidized layer ion exchangers;</li>
-    <li>Study of the ion-exchange separation process of Vitamin B10;</li>
-    <li>EMG & EKG biosignal processing using Arduino & open-source Python platforms;</li>
-    <li>Applications and Perspectives of Cold Electric Discharge Plasmas in Bio-Medicine.</li>
+    <li>Completed a spectrometric determination of fluorine concentration in multiple local sources of water.</li>
+    <li>Performed a study of Streptomycin retention mechanism using fluidized layer ion exchangers in addition to the ion-exchange separation process of Vitamin B10.</li>
+    <li>Examined and analyzed the EMG & EKG biosignal processing using Arduino and open-source Python platforms.</li>
+    <li>Explored the applications and perspectives of Cold Electric Discharge Plasmas in Bio-Medicine.</li>
+
