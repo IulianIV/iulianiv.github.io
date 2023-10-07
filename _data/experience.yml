@@ -3,22 +3,26 @@
   position: Bioinformatician, Internship
   duration: Feb. 2023 &mdash; Present
   summary: 
-    <li>Development of a Python package and Galaxy wrapper tool for the <a href="https://dee2.io/index.html" rel="noopener noreferrer nofollow" 
-   target="_blank">DEE2 (Digital Expression Explorer 2)</a> R package;</li>
-    <li>Wrapper GitHub Repository - <a href="https://github.com/IulianIV/dee2-galaxy" rel="noopener noreferrer nofollow" 
-   target="_blank">dee2-galaxy</a>.</li>
-
+    <li>Designed and developed a complex Python package and Galaxy wrapper tool for the <a href="https://dee2.io/index.html" rel="noopener noreferrer nofollow" 
+   target="_blank">DEE2 (Digital Expression Explorer 2)</a> R package.</li>
+    <li>Managed multiple production Nginx Servers, utilizing Virtual Private Server for deployment, configuring with a custom web domain, and working with the main domain of the website on a shared hosting website using cPanel.</li>
+    <li>Relevant links: <a href="https://dee2.io/index.html" rel="noopener noreferrer nofollow" 
+   target="_blank">dee2.io</a>, <a href="https://galaxy.prower.ro" rel="noopener noreferrer nofollow" 
+   target="_blank">galaxy.prower.ro</a>.</li>
+    <li>Scripted reusable, testable, and efficient code as well as tested and debugged code as necessary.</li>
 
 - company: Oak Bioinformatics LLC
   position: Bioinformatician, Internship
   duration: Jan. 2023 &mdash; Present
   summary: 
-    <li>Creating Python modules that optimize testing of gene and variant-level annotator modules;</li>
-    <li>Creating Python scripts that increase the speed of gene and variant-level annotator modules.</li>
-
+    <li>Generated detailed Python modules with the goal of optimizing the testing of gene and variant-level annotator modules.</li>
+    <li>Formulated and implemented MAF, GVF/GFF3 File Reporter and Converter Modules.</li>
+    <li>Scripted code for parsing files, such as MAF/GVF/GFF3, and converted them to other files for usage in the OakVar Bioinformatics Software from Oak Bioinformatics.</li>
+    <li>Developed algorithms for processing and analyzing genomic information and other biological information.</li>
+    <li>Conducted extensive research using effective bioinformatics theory and methods.</li>
 - company: PestControl Expert
   position: Marketing Specialist & Product Catalog Administrator
   duration: Oct. 2019 &mdash; Jun. 2023
   summary: 
-    <li>Managed the B2B/B2C marketing team for a house of brands regarding multi-channel marketing across multiple fields. We focused on PPC, Social, SEM, SEO, and Direct Marketing (SMS/Email) along with other marketing standards;</li>
-    <li>Made use of my previously acquired management and analytical skills to organize and manage a team.</li>
+    <li>Directed and oversaw the B2B/B2C marketing team for a house of brands which included multi-channel marketing across several fields.</li>
+    <li>Coordinated daily activities for the team by applying previously acquired management and analytical skills.</li>
