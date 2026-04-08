@@ -1,25 +1,34 @@
 # Jobs
-- company: Mark Ziemann, PhD, Deakin University
-  position: Bioinformatician, Internship
-  duration: Feb. 2023 &mdash; Present
-  summary: 
-    <li>Designed and developed a complex Python package and Galaxy wrapper tool for the <a href="https://dee2.io/index.html" rel="noopener noreferrer nofollow" target="_blank">DEE2 (Digital Expression Explorer 2)</a> R package.</li>
-    <li>Managed multiple production Nginx Servers, utilizing Virtual Private Server for deployment, configuring with a custom web domain, and working with the main domain of the website on a shared hosting website using cPanel.</li>
-    <li>Relevant links <a href="https://dee2.io/index.html" rel="noopener noreferrer nofollow" target="_blank">dee2.io</a>, <a href="https://galaxy.prower.ro" rel="noopener noreferrer nofollow" target="_blank">galaxy.prower.ro</a>.</li>
-    <li>Scripted reusable, testable, and efficient code as well as tested and debugged code as necessary.</li>
+- company: Ziemann Lab &mdash; Deakin University / Burnet Institute
+  position: Bioinformatics Intern
+  duration: Feb. 2023 &mdash; Sep. 2023
+  summary: |
+    <li>Developed a Python Galaxy wrapper and standalone package for the <a href="https://dee2.io/index.html" rel="noopener noreferrer nofollow" target="_blank">getDEE2</a> R library, enabling Python-native access to the Digital Expression Explorer 2 (DEE2) - a repository of uniformly processed RNA-seq data across 9+ species.</li>
+    <li>Designed custom Python classes using rpy2 to bridge R SummarizedExperiment objects with pandas DataFrames for downstream statistical analysis and data export.</li>
+    <li>Implemented CLI and Galaxy-compatible interfaces, including XML tool definitions for local Galaxy instance integration.</li>
+    <li>Managed and deployed a production Galaxy instance on Nginx (VPS configuration, custom domain, server administration).</li>
+    <li>GitHub: <a href="https://github.com/IulianIV/dee2-galaxy" rel="noopener noreferrer nofollow" target="_blank">github.com/IulianIV/dee2-galaxy</a></li>
 
 - company: Oak Bioinformatics LLC
-  position: Bioinformatician, Internship
-  duration: Jan. 2023 &mdash; Present
-  summary: 
-    <li>Generated detailed Python modules with the goal of optimizing the testing of gene and variant-level annotator modules.</li>
-    <li>Formulated and implemented MAF, GVF/GFF3 File Reporter and Converter Modules.</li>
-    <li>Scripted code for parsing files, such as MAF/GVF/GFF3, and converted them to other files for usage in the OakVar Bioinformatics Software from Oak Bioinformatics.</li>
-    <li>Developed algorithms for processing and analyzing genomic information and other biological information.</li>
-    <li>Conducted extensive research using effective bioinformatics theory and methods.</li>
+  position: Bioinformatician, Freelance
+  duration: Jan. 2023 &mdash; Jan. 2024
+  summary: |
+    <li>Developed Python modules for the OakVar bioinformatics platform, focusing on genomic data processing and annotation pipeline testing.</li>
+    <li>Built test scripts for gene and variant-level annotator modules, improving quality assurance across the OakVar platform.</li>
+    <li>Designed and implemented MAF, GVF/GFF3 file reporter and converter modules for genomic data format interoperability.</li>
+    <li>Developed parsing algorithms for standard bioinformatics file formats, enabling conversion pipelines for annotation workflows.</li>
+
 - company: PestControl Expert
-  position: Marketing Specialist & Product Catalog Administrator
-  duration: Oct. 2019 &mdash; Jun. 2023
-  summary: 
-    <li>Directed and oversaw the B2B/B2C marketing team for a house of brands which included multi-channel marketing across several fields.</li>
-    <li>Coordinated daily activities for the team by applying previously acquired management and analytical skills.</li>
+  position: Marketing &amp; Data Analytics Specialist
+  duration: Sep. 2019 &mdash; Jun. 2023
+  summary: |
+    <li>Managed data-driven marketing operations across a multi-brand B2B/B2C portfolio.</li>
+    <li>Built ETL pipelines and automated reporting workflows using Google Apps Script and Python to support analytics and business decisions.</li>
+    <li>Applied statistical analysis and segmentation to campaign performance optimization across multiple channels.</li>
+
+- company: Protectia Muncii SSM RSGE
+  position: Data &amp; Analytics Specialist
+  duration: Jun. 2024 &mdash; Sep. 2024
+  summary: |
+    <li>Applied data analytics and statistical methods to B2B lead generation strategy, including segmentation models, risk assessment, and performance reporting.</li>
+    <li>Implemented automated reporting pipelines and tracking dashboards to support business decisions across client accounts.</li>

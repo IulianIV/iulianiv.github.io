@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Iulian Ichim"
-resume_title:                   "Bioinformatics Software Developer"
+resume_title:                   "Bioinformatics Developer | Computational Biology · PK-PD/PBPK Modeling &amp; QSP | Python, R, Flask"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ichim.iulian12@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+353874880410"
-resume_contact_address:         "Cork, Ireland"
+resume_contact_telephone:       "+0743959116"
+resume_contact_address:         "Bucharest, Romania"
 
-resume_header_contact_info:     "Cork, Ireland • ichim.iulian12 [~at~] gmail.com"
+resume_header_contact_info:     "Bucharest, Romania • ichim.iulian12 [~at~] gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I possess a great desire to advance my career with a leading organization that will utilize my extensive bioinformatics knowledge while also allowing me to develop further as a professional. Proven talent for aligning project objectives with established and emerging biotechnology paradigms to achieve optimal results with minimal challenges. Growth-focused leader with expertise spanning research and analysis, application design, critical thinking, problem solving, team collaboration, and organization. Exceptional professional with keen interpersonal, communications, and task prioritization expertise.</p>"
+resume_header_intro: "<p>Bioinformatics developer and data analyst with a background in biomedical engineering, computational genomics, and pharmacokinetic modeling. I build tools that bridge R-based bioinformatics workflows with Python ecosystems — from Galaxy platform wrappers to genomic file format parsers to compartmental models for drug concentration estimation.</p><p>I have hands-on experience developing bioinformatics tooling at the Ziemann Lab (Deakin University / Burnet Institute), where I built a Python Galaxy wrapper and package for the DEE2 RNA-seq data repository, and at Oak Bioinformatics LLC, where I developed genomic file format parsers and annotation pipeline modules for the OakVar platform.</p><p>I have a strong interest in quantitative systems pharmacology (QSP) and PK-PD modeling — particularly ODE-based compartmental modeling of ADME dynamics — and independently develop PK-PD simulation tools in Python. My undergraduate background at Grigore T. Popa University spans wet-lab techniques, biosignal processing, and Bio-MEMS prototyping. Seeking opportunities in bioinformatics, computational biology, or QSP/PK-PD modeling.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

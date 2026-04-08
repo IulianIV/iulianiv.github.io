@@ -1,34 +1,25 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-- project: DEE2 Galaxy Wrapper 
+- project: Galaxy DEE2
   role: Developer
   duration: Feb. 2023 &mdash; Sep. 2023
-  url: "https://galaxy.prower.ro"
-  description: Developed and integrated a primary location where the <a href="https://dee2.io/index.html" rel="noopener noreferrer nofollow" 
-   target="_blank">DEE2</a> Python Wrapper could be properly tested.
+  url: "https://github.com/IulianIV/dee2-galaxy"
+  description: Python Galaxy wrapper and standalone package for the getDEE2 R library, enabling programmatic access to the DEE2 repository of uniformly processed RNA-seq data across 9+ species. Bridges R and Python via rpy2, converting SummarizedExperiment objects to pandas DataFrames. Supports CLI usage, Galaxy platform integration, and TSV export for downstream statistical analysis. Technologies&#58; Python, R, rpy2, pandas, Galaxy Platform, XML, Nginx.
 
+- project: PK-PD Concentration Modeling Tools
+  role: Developer
+  duration: 2024 &mdash; Present
+  url:
+  description: Pharmacokinetic modeling tools implementing one- and two-compartment models for estimating blood and tissue concentrations of bioactive compounds over time. Features ODE-based simulation of absorption, distribution, and elimination kinetics using SciPy, with support for multi-compound interaction modeling, dosing schedule optimization, and calibration against laboratory results. Technologies&#58; Python, SciPy, NumPy, Flask, React.
 
-- project: Prower
-  role: Founder & Primary Developer
-  duration: 2021 &mdash; Present
-  url: "https://www.prower.ro"
-  description: Designed a Python & Flask web app for use in budgeting and marketing intelligence, along with other general utilities. <br/>Demo account > TestUser@TestUser1234?
+# - project: Prower
+#   role: Founder &amp; Primary Developer
+#   duration: 2021 &mdash; 2024
+#   url:
+#   description: Full-stack Python/Flask web application for budgeting and operational data analytics. Features data ingestion pipelines, visualization dashboards, automated reporting, and general-purpose utility tools. Technologies&#58; Python, Flask, SQLite, Bootstrap, JavaScript.
 
-# - project: Tech Biomed
-#  role: Founder & Maintainer
-#  duration: 2020 &mdash; Present
-#  url: "https://www.tech-biomed.com"
-#  description: Medical Bioengineering & Biotechnology blog focused on the abstractization of complex information found in journals along with the accumulation of possile sparse data regarding the field.
-
-# - project: Tech Biomed, RO
-#  role: Founder & Maintainer
-#  duration: 2020 &mdash; Present
-#  url: "https://www.tech-biomed.ro"
-#  description: Medical Bioengineering & Biotechnology blog focused on the abstractization of complex information found in journals along with the accumulation of possile sparse data regarding the field.
-
-- project: Personal Github Repository
-  role: Primary Developer
-  duration: Present
-  url: "https://github.com/IulianIV"
-  description: Galaxy Instance, Prower Flask webapp, Apps Script workflow optimizers, several single-use Python & JavaScript snippets
+# - project: Personal GitHub Repository
+#   role: Primary Developer
+#   duration: Present
+#   url: "https://github.com/IulianIV"
+#   description: Galaxy DEE2 wrapper, Prower Flask webapp, Google Apps Script workflow optimizers, and various Python and JavaScript utilities.

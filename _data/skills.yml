@@ -1,21 +1,24 @@
 # Skills
-- skill: Technical Proficiencies accumulated
-  description: R, Biosignal processing, Microcontrollers, JavaScript, HTML/CSS, Flask, MySQL/PostgreSQL, Linux, Nginx Server Configuration, Object Oriented Programming (C++), C, Microsoft Excel/Spreadsheets
-  
-- skill: Programming knowledge
-  description: <strong>Python</strong> - started in college for physics, bioinformatics and electronics simulations. Also used in web development and smaller side projects (games, OCR, computer vision).< br/> <strong>C++</strong> - in college coupled with Python for microcontrollers.
+- skill: Bioinformatics &amp; Computational Biology
+  description: RNA-seq data analysis, genomic file formats (MAF, GVF/GFF3), Galaxy Platform, OakVar, rpy2, Bioconductor, variant annotation, biosignal processing (EEG, EKG, EMG).
 
-- skill: Strategic Thinking
-  description: <strong>Learner, Intellection, Consistency, Restorative, Deliberative</strong>  these are some of my strengths that build towards my ability to develop the right step towards achieving a goal whilst being able to foresee potential problems and the most efficient way to deal with them. 
+- skill: Pharmacokinetics &amp; QSP Modeling
+  description: One- and two-compartment PK-PD modeling, ODE-based simulation of ADME dynamics (SciPy), multi-compound interaction modeling, dosing schedule optimization, quantitative systems pharmacology (QSP), calibration against laboratory data.
 
-- skill: Solution Finder
-  description: I tend to find solutions, or work-arounds on occasion, to difficult, seemingly unsolvable problems. Although, if the given solution is not viable, according or implementable, I tend to at least guide towards the right path.
+- skill: Programming
+  description: <strong>Python</strong> (primary) — bioinformatics tooling, Flask web development, data pipelines, scripting. <strong>R</strong> — statistical analysis, Bioconductor, data analysis workflows. <strong>JavaScript / React</strong> — front-end development. <strong>C/C++</strong> — microcontroller programming. <strong>SQL</strong> — SQLite, MySQL, PostgreSQL.
 
-- skill: Organizational leadership
-  description: I have experience as a leader and coordinator, mainly from volunteer work, where I learned how to motivate people, find their strengths, evolve with them and organize them towards achieving common goals.
+- skill: Data Science &amp; Analysis
+  description: pandas, NumPy, SciPy, matplotlib, Plotly, statistical analysis, ETL pipelines, data visualization, Google Apps Script.
 
-- skill: Marketing skills
-  description: PPC, Social Media, Google/Bing Ads, Spreadsheets/Excel, Google Apps Scripts, Google Ads API, Email Marketing, Direct Marketing, Statistical Analysis, Google Analytics, ETL, Magento, Google Tag Manager, Data Studio, Reporting
+- skill: Infrastructure &amp; Tools
+  description: Linux (Ubuntu), Nginx, VPS administration, cPanel, Git / GitHub, Arduino / microcontrollers, Capacitor (mobile).
 
-- skill: Advanced English
-  description: Level C1 CAE Cambridge Exam
+- skill: Languages
+  description: <strong>English</strong> — C1, CAE Cambridge. <strong>Romanian</strong> — Native.
+
+- skill: Organizational Leadership
+  description: Experience coordinating and leading teams through volunteer work — motivating people, identifying strengths, and organizing towards shared goals (Bioengineering Students Association, Coordinator → President, 2015–2018).
+
+# - skill: Strategic Thinking
+#   description: <strong>Learner, Intellection, Consistency, Restorative, Deliberative</strong> — CliftonStrengths profile reflecting a methodical, research-oriented approach to problem solving with attention to long-term consequences and consistency.
