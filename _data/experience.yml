@@ -1,34 +1,36 @@
 # Jobs
-- company: Ziemann Lab &mdash; Deakin University / Burnet Institute
-  position: Bioinformatics Intern
-  duration: Feb. 2023 &mdash; Sep. 2023
+- company: Freelance
+  position: Boxing Coach &amp; Web Developer
+  duration: Oct. 2024 &mdash; Present
   summary: |
-    <li>Developed a Python Galaxy wrapper and standalone package for the <a href="https://dee2.io/index.html" rel="noopener noreferrer nofollow" target="_blank">getDEE2</a> R library, enabling Python-native access to the Digital Expression Explorer 2 (DEE2) - a repository of uniformly processed RNA-seq data across 9+ species.</li>
-    <li>Designed custom Python classes using rpy2 to bridge R SummarizedExperiment objects with pandas DataFrames for downstream statistical analysis and data export.</li>
-    <li>Implemented CLI and Galaxy-compatible interfaces, including XML tool definitions for local Galaxy instance integration.</li>
-    <li>Managed and deployed a production Galaxy instance on Nginx (VPS configuration, custom domain, server administration).</li>
-    <li>GitHub: <a href="https://github.com/IulianIV/dee2-galaxy" rel="noopener noreferrer nofollow" target="_blank">github.com/IulianIV/dee2-galaxy</a></li>
-
-- company: Oak Bioinformatics LLC
-  position: Bioinformatician, Freelance
-  duration: Jan. 2023 &mdash; Jan. 2024
-  summary: |
-    <li>Developed Python modules for the OakVar bioinformatics platform, focusing on genomic data processing and annotation pipeline testing.</li>
-    <li>Built test scripts for gene and variant-level annotator modules, improving quality assurance across the OakVar platform.</li>
-    <li>Designed and implemented MAF, GVF/GFF3 file reporter and converter modules for genomic data format interoperability.</li>
-    <li>Developed parsing algorithms for standard bioinformatics file formats, enabling conversion pipelines for annotation workflows.</li>
-
-- company: PestControl Expert
-  position: Marketing &amp; Data Analytics Specialist
-  duration: Sep. 2019 &mdash; Jun. 2023
-  summary: |
-    <li>Managed data-driven marketing operations across a multi-brand B2B/B2C portfolio.</li>
-    <li>Built ETL pipelines and automated reporting workflows using Google Apps Script and Python to support analytics and business decisions.</li>
-    <li>Applied statistical analysis and segmentation to campaign performance optimization across multiple channels.</li>
+    <li>Coach group boxing classes at a local gym several evenings a week.</li>
+    <li>Designed and built the gym's website and an internal management app; both in pre-launch testing, with handover to the business planned.</li>
 
 - company: Protectia Muncii SSM RSGE
-  position: Data &amp; Analytics Specialist
+  position: Data &amp; Analytics Specialist, Bucharest, Romania
   duration: Jun. 2024 &mdash; Sep. 2024
   summary: |
-    <li>Applied data analytics and statistical methods to B2B lead generation strategy, including segmentation models, risk assessment, and performance reporting.</li>
-    <li>Implemented automated reporting pipelines and tracking dashboards to support business decisions across client accounts.</li>
+    <li>Applied data analytics and statistical methods to optimise B2B lead-generation strategy.</li>
+    <li>Implemented customer segmentation models, performance-tracking pipelines and reporting dashboards.</li>
+
+- company: Oak Bioinformatics LLC
+  position: Bioinformatician (Part Time Internship), Remote
+  duration: Jan. 2023 &mdash; Jan. 2024
+  summary: |
+    <li>Developed Python modules for testing gene- and variant-level annotator modules within the OakVar bioinformatics platform.</li>
+    <li>Designed and implemented File Reporter / Converter modules for MAF and GVF/GFF3 genomic formats; parsers used downstream by OakVar tooling (code: <a href="https://github.com/IulianIV/oakvar-modules" rel="noopener noreferrer nofollow" target="_blank">github.com/IulianIV/oakvar-modules</a>).</li>
+
+- company: Ziemann Lab, Deakin University / Burnet Institute
+  position: Bioinformatics Intern (Part Time), Remote (Australia)
+  duration: Feb. 2023 &mdash; Sep. 2023
+  summary: |
+    <li>Built a Python Galaxy wrapper and standalone package for the DEE2 (Digital Expression Explorer 2) R library via rpy2.</li>
+    <li>Authored CLI usage, Galaxy integration, TSV export and unit tests for downstream statistical analysis.</li>
+    <li>GitHub: <a href="https://github.com/IulianIV/dee2-galaxy" rel="noopener noreferrer nofollow" target="_blank">github.com/IulianIV/dee2-galaxy</a></li>
+
+- company: PestControl Expert
+  position: Data &amp; Marketing Analytics, Bucharest, Romania
+  duration: Sep. 2019 &mdash; Jun. 2023
+  summary: |
+    <li>Managed data-driven analytics across a multi-brand B2B/B2C portfolio: campaign performance modelling, statistical analysis and KPI dashboards.</li>
+    <li>Built automated reporting via Google Apps Script and Google Tag Manager; produced segmentation and channel-attribution analyses informing budget allocation.</li>

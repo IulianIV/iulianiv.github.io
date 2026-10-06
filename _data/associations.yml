@@ -1,17 +1,16 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Bioengineering Students Association (Asocia&#x21B;ia Studen&#x21B;ilor Bioingineri)
-  role: Coordinator, President
-  year: "Oct. 2015 &mdash; May 2018"
+- organization: Bioengineering Student Association
+  role: VP of Internal Affairs, then President
+  year: "2015 &mdash; 2019"
   url: # https://www.asbiasi.ro/
   summary:
-    <li>Served as Coordinator (Oct 2015 – Oct 2017) then President (Oct 2017 – May 2018).</li>
-    <li>Coordinated multiple local charitable events, sports events, and the National Bioengineering Conference for Students & Young Researchers, which grew into an international event.</li>
+    <li>Coordinated the National Bioengineering Conference for Students & Young Researchers and several local academic and charitable events.</li>
 
 - organization: IEEE International Conference EHB 2017
-  role: Event Organizer
+  role: Event Organiser
   year: "2017"
   url: http://www.ehbconference.ro/Home.aspx
   summary:
-    <li>Provided support to the General Chair with the organization of the event by communicating with international participants.</li>
+    <li>Supported the General Chair with logistics and communication with international participants.</li>

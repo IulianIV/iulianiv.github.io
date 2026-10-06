@@ -1,24 +1,18 @@
 # Skills
-- skill: Bioinformatics &amp; Computational Biology
-  description: RNA-seq data analysis, genomic file formats (MAF, GVF/GFF3), Galaxy Platform, OakVar, rpy2, Bioconductor, variant annotation, biosignal processing (EEG, EKG, EMG).
-
-- skill: Pharmacokinetics &amp; QSP Modeling
-  description: One- and two-compartment PK-PD modeling, ODE-based simulation of ADME dynamics (SciPy), multi-compound interaction modeling, dosing schedule optimization, quantitative systems pharmacology (QSP), calibration against laboratory data.
+- skill: Evidence Synthesis &amp; Literature Mining
+  description: PRISMA-ScR methodology, PubMed/MEDLINE retrieval via NCBI E-utilities, MeSH-based query design, reproducible de-duplication and screening pipelines.
 
 - skill: Programming
-  description: <strong>Python</strong> (primary) — bioinformatics tooling, Flask web development, data pipelines, scripting. <strong>R</strong> — statistical analysis, Bioconductor, data analysis workflows. <strong>JavaScript / React</strong> — front-end development. <strong>C/C++</strong> — microcontroller programming. <strong>SQL</strong> — SQLite, MySQL, PostgreSQL.
+  description: <strong>Python</strong>, <strong>R</strong>, <strong>SQL</strong> (MySQL/PostgreSQL), <strong>JavaScript</strong>, <strong>HTML/CSS</strong>, <strong>C++</strong>.
 
-- skill: Data Science &amp; Analysis
-  description: pandas, NumPy, SciPy, matplotlib, Plotly, statistical analysis, ETL pipelines, data visualization, Google Apps Script.
+- skill: Scientific Computing
+  description: NumPy, SciPy, pandas, Matplotlib, Jupyter, rpy2.
 
-- skill: Infrastructure &amp; Tools
-  description: Linux (Ubuntu), Nginx, VPS administration, cPanel, Git / GitHub, Arduino / microcontrollers, Capacitor (mobile).
+- skill: Bioinformatics
+  description: Galaxy tool development, RNA-seq workflows (DEE2), gene/variant annotation (OakVar), genomic file-format parsers (MAF, GVF/GFF3).
+
+- skill: Infrastructure &amp; Web
+  description: Git, Linux server administration, Nginx, Flask, React, Anaconda.
 
 - skill: Languages
-  description: <strong>English</strong> — C1, CAE Cambridge. <strong>Romanian</strong> — Native.
-
-- skill: Organizational Leadership
-  description: Experience coordinating and leading teams through volunteer work — motivating people, identifying strengths, and organizing towards shared goals (Bioengineering Students Association, Coordinator → President, 2015–2018).
-
-# - skill: Strategic Thinking
-#   description: <strong>Learner, Intellection, Consistency, Restorative, Deliberative</strong> — CliftonStrengths profile reflecting a methodical, research-oriented approach to problem solving with attention to long-term consequences and consistency.
+  description: <strong>English</strong> &mdash; C1, CAE Cambridge. <strong>Romanian</strong> &mdash; Native.
